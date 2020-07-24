@@ -1,7 +1,7 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
+name: new item
+about: anti dog ass disease vaccine
+title: 'idk'
 labels: enhancement request
 assignees: ''
 
@@ -17,4 +17,4 @@ A clear and concise description of what you want to happen.
 A clear and concise description of any alternative solutions or features you've considered.
 
 **Additional context**
-Add any other context or screenshots about the feature request here.
+no problem just thinkinkg if we had a thing that could save us frm dofass disease would be noice
