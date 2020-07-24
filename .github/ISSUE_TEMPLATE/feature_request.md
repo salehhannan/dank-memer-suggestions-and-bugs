@@ -1,7 +1,7 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
+name: league
+about: greate a guld command so that possibly a guild/server can run this command so that one person from that server cannot rob another person from that same server no matter which guild
+title: 'clan?'
 labels: enhancement request
 assignees: ''
 
